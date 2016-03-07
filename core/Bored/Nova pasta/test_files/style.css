@@ -1,0 +1,271 @@
+/* eric meyer reset 1.0 | 20080212 (changed) */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a, abbr, acronym, address, big,
+cite, code, del, em, font, img, q, s, small, strike, strong, sub, sup,  b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td
+{ margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent; }
+body { line-height:1; }
+ol, ul { list-style:none; }
+blockquote, q { quotes:none; }
+blockquote:before, blockquote:after, q:before, q:after { content:''; content:none; }
+:focus { outline:0; } /* remember to define focus styles! */
+ins { text-decoration:none; } /* remember to highlight inserts somehow! */
+del { text-decoration:line-through; }
+table { border-collapse:collapse; border-spacing:0; } /* tables still need 'cellspacing="0"' in the markup */
+
+/* colors */
+/*
+
+
+
+*/
+
+/* tags */
+html { background-color:#fff; }
+body { width:900px; padding:0 30px; margin:0 auto; background-color:#fff; border-width:0 1px; color:#333; font-family: Helvetica, Tahoma, Arial, sans-serif; font-size:13px; }
+p { line-height:1.4; margin-bottom:10px; }
+small { font-size:10px; color:#666; }
+
+/* headings */
+h1, h2, h3, h4, h5, h6 { font-family: Helvetica, Arial, sans-serif; color:#ff5142; letter-spacing:-1px; }
+h1 { font-size:34px; margin-bottom:30px; }
+h1 a:link,
+h1 a:visited { text-decoration:none; color:#ff5142; }
+h2 { font-size:26px; margin-bottom:20px; }
+h3 { font-size:21px; margin-bottom:15px; }
+h4 { font-size:18px; margin-bottom:12px; }
+h5 { font-size:16px; }
+h6 { font-size:14px; }
+
+/* links */
+a:link,
+a:visited { text-decoration:none; color:#3e71f0; }
+a:hover,
+a:active { text-decoration:underline; }
+a.no_underline:hover,
+a.no_underline:active { text-decoration:none; }
+
+
+/* nav */
+ul.nav li { float:left; margin-left:15px; }
+ul.nav li.selected a { color:#ff5142; }
+ul.item_margin_right li { margin-left:0; margin-right:15px; }
+
+/* header */
+#header { overflow:hidden; height:100%; margin-bottom:30px; padding-top:10px; }
+#header .nav { margin-bottom:12px; float:right; padding-top:7px; }
+#site_id { float:left; }
+#site_id img { margin-left:-6px; }
+
+/* signature */
+#signature_box { background-color:#fff; margin-bottom:40px; font-size:38px; line-height:50px; color:#FF5142; letter-spacing:-1px; }
+
+/* content */
+#content_wrapper { background-color:#fff; margin:0 auto; }
+#content { padding:20px 0; }
+#breadcrumbs { border:1px dotted #ddd; border-width:1px 0; margin-bottom:24px; padding:6px 0; color:#999; }
+
+/* page menu */
+#page_menu { margin-bottom:40px; }
+#page_menu h1 { margin-bottom:0; border-bottom:3px solid #F6F6F6; }
+#page_menu ul.nav { float:right; font-size:22px; margin-top:11px; }
+#page_menu ul.nav li { margin-left:35px; }
+
+/* highlight */
+#highlight { margin:-38px 0 50px; height:400px; position:relative; }
+#highlight_legend { position:absolute; bottom:10px; left:0; background-color:#fff; padding:10px; padding-left:0; z-index:1; }
+.highlight_date { float:left; color:#FF5142; padding:3px 0; width:38px; margin-right:6px; border:1px solid #eeeeee; text-align:center; font-weight:bold; font-size:14px; }
+.highlight_date_day { font-size:18px; }
+.highlight_date_month { text-transform:uppercase; }
+.highlight_details { float:left; }
+.highlight_details_artist { font-size:24px; }
+.highlight_details_location { font-size:14px; padding-top:4px; color:#999; }
+.small_highlights_wrapper { padding-bottom:20px; overflow:hidden; }
+.small_highlight { width:431px; height:212px; position:relative; margin-bottom:30px; }
+.small_highlight_legend { position:absolute; bottom:0; left:0; padding:6px 0 2px; width:100%; background-color:#fff; }
+.small_highlight_legend_location { float:right; }
+
+/* buckets */
+div#three_buckets { height:280px; }
+div.first_bucket { float:left; width:260px; }
+div.first_bucket div#highlight img { background-color:#ddd; height:190px; margin-bottom:10px; width:100%; }
+div.bucket { float:left; width:260px; padding-left:40px; }
+div.bucket div.other_highlight { clear:both; margin-bottom:16px; }
+div.first_bucket div#highlight h3,
+div.bucket div.other_highlight h3 { padding-left:4px; text-align:left; }
+div.bucket h3 { text-align:right; }
+div.bucket h3 a { color:#a01904; }
+
+/* concerts listing */
+.weekday_small { background-color:#fff; color:#ccc; }
+.concerts_listing h2 { margin-bottom:20px; }
+.concerts_listing h3 { margin-bottom:15px; }
+.concerts_listing table.concerts { position:relative; width:924px; margin-left:-16px; margin-bottom:40px; }
+.concerts_listing td { border-bottom:1px solid #eeeeee; padding:6px 0 4px; line-height:18px; vertical-align:bottom; }
+.concerts_listing td.is_new_concert { width:17px; border:0; }
+.concerts_listing td.artists { xwidth:400px; width:50%; padding-right:20px; }
+.concerts_listing td.city_venue { xwidth:329px; xwidth:50%; }
+.concerts_listing td.time,
+.concerts_listing td.date { color:#999; width:60px; text-align:right; }
+.concerts_listing td.price { color:#999; width:110px; text-align:right; }
+.concerts_listing ul.nav { height:30px; margin-bottom:40px; margin-top:-36px; padding-top:10px; font-size:20px; }
+.concerts_listing ul.nav li { float:right; margin-left:40px; }
+.concerts_listing ul.nav li.legend { float:left; margin-left:0; color:#999; font-size:12px; padding-top:7px; }
+.concerts_listing ul.nav li.legend img { vertical-align:middle; padding-right:4px; }
+
+.add_show_link { float:right; margin-left:16px; }
+#legend { margin-bottom:30px; color:#999; }
+#legend img { vertical-align:middle; padding-right:4px; }
+#legend span { padding-right:10px; }
+
+
+/* concert details */
+.concert_details { background-color:#fff; width:400px; padding:15px 10px 10px; overflow:hidden; }
+.concert_details_expanded { margin-bottom:30px; }
+.concert_details h1,
+.concert_details_expanded h1 { font-size:26px; margin-bottom:20px; }
+.concert_details_expanded h2.main_artist { font-size:24px; font-weight:normal; margin-bottom:16px; line-height:24px; }
+.concert_details_expanded p { font-size:16px; }
+.concert_details_expanded p.supporting_artists { font-size:16px; line-height:2; margin-bottom:20px; margin-top:-10px; }
+.concert_details_expanded p.supporting_artists a { padding:0 2px; }
+.concert_details_expanded .artists { margin-bottom:30px; }
+.concert_details_expanded .main_artists { font-size:24px; }
+.concert_details_expanded .support_artists { font-size:13px; line-height:22px; }
+.concert_details a img { border:2px solid #ddd; float:right; width:250px; margin:5px 5px 15px; overflow:hidden; }
+.concert_details_expanded a img { border:2px solid #ddd; float:right; width:450px; margin-left:15px; margin-top:7px; overflow:hidden; }
+.concert_details dl,
+.concert_details_expanded dl { xoverflow:hidden; }
+.concert_details dt,
+.concert_details_expanded dt { width:20px; padding:5px 5px 0 5px; float:left; margin:0; font-weight:bold; }
+.concert_details dt img,
+.concert_details_expanded dt img { margin-top:1px; }
+.concert_details dd,
+.concert_details_expanded dd { width:290px; margin-left:25px; padding:5px; line-height:16px; }
+.concert_details_expanded dd { width:380px; }
+.concert_details_expanded dl.extended dd { width:auto; }
+.concert_details_expanded dd.bigger_text { font-size:16px; line-height:20px; }
+.cancelled_concert_stamp { background-color:red; color:#fff; padding:3px 4px 2px; font-weight:bold; margin-left:4px; font-size:12px; margin-left:0; }
+
+/* event concerts listings */
+.event_concerts_listing { margin:30px 0 40px; }
+.event_date_concerts_listing { margin-bottom:30px; overflow:hidden; }
+.event_date { float:left; color:#FF5142; margin-right:6px; margin-right:10px; height:60px; text-align:center; font-weight:bold; font-size:14px; }
+.event_date_calendar { border:1px solid #eee; padding:3px 0; width:38px; }
+.event_date_calendar .selected { border:1px solid #ff5142; color:#ff5142; }
+.event_date_calendar .day { font-size:18px; }
+.event_date_calendar .month { text-transform:uppercase; }
+.event_date .weekday { padding-top:3px; font-size:11px; text-transform:lowercase; font-weight:normal; }
+.event_concert { margin-left:50px; margin-bottom:10px; }
+.event_concert_selected { background-color:#F6F6F6; border:1px solid #EEE; padding:8px 8px 4px 8px; }
+.event_concert .main_artists { font-size:24px; }
+.event_concert .support_artists { font-size:13px; line-height:22px; }
+.event_concert .details { font-size:12px; line-height:22px; }
+.event_concert .optional_detail { color:#999; padding-left:6px; }
+
+/* city listing */
+#city_listing { padding-bottom:10px; }
+#city_listing a { margin-right:6px; }
+
+/* popup box */
+.generic_dialog { height:0; left:0; overflow:visible; position:fixed; /*dw*/ top:0; width:100%; z-index:101; }
+.generic_dialog .generic_dialog_popup { height:0; overflow:visible; position:relative; }
+.generic_dialog_popup { top:25px; }
+table.pop_dialog_table { border-collapse:collapse; direction:ltr; margin:auto; table-layout:fixed; width:820px; }
+td.pop_topleft,
+td.pop_topright,
+td.pop_bottomleft,
+td.pop_bottomright { height:10px; overflow:hidden; padding:0 !important; width:10px !important; }
+td.pop_topleft { background:transparent url(/img/gfx/popup_box_sprite.png) no-repeat scroll 0 0; }
+td.pop_topright { background:transparent url(/img/gfx/popup_box_sprite.png) no-repeat scroll 0 -10px; }
+td.pop_bottomleft { background:transparent url(/img/gfx/popup_box_sprite.png) no-repeat scroll 0 -20px; }
+td.pop_bottomright { background:transparent url(/img/gfx/popup_box_sprite.png) no-repeat scroll 0 -30px; }
+td.pop_top,
+td.pop_bottom { background:transparent url(/img/gfx/popup_box_sprite.png) repeat-x scroll 0 -40px; }
+td.pop_side { background:transparent url(/img/gfx/popup_box_sprite.png) repeat-y scroll -10px 0; }
+td.pop_content { background-color:white; direction:ltr; padding:0; }
+.pop_dialog_rtl td.pop_content { direction:rtl; }
+#popup_box_content { overflow:hidden; height:100%; }
+
+/* popup box details */
+.popup_box_details { background-color:#fff; width:780px; padding:15px 10px 10px; }
+
+/* support */
+.support h3 { margin-bottom:6px; }
+.support p { margin-bottom:20px; }
+
+/* admin data tables */
+table.admin_data { margin-bottom:40px; }
+table.admin_data th,
+table.admin_data td { text-align:left; border-bottom:1px solid #eee; padding:6px 4px 4px 0; line-height:18px; }
+table.admin_data .is_new { width:17px; border:0; }
+table.admin_data .is_new img { vertical-align:middle; }
+
+/* forms */
+form input { color:#333; padding:2px; margin-bottom:10px; }
+form ol { clear:both; margin:0; padding:0; }
+form ol li { list-style:none; padding-bottom:10px; margin:0; font-size:13px; }
+form ol li label { font-weight:bold; padding:3px 10px 0 0; text-align:right; }
+form ol li .error_box { background:url("/img/icons/error.png") no-repeat top left; height:16px; padding:2px 0 0 22px; font-weight:bold; margin-left:124px; }
+form.vertical_form ol li div .error_box { margin-left:0px; }
+form .inputs_as_blocks input { display:block; }
+form .inline-block label { padding-right:0; }
+form.vertical_form label { display:inline-block; vertical-align:top; width:110px; }
+form ol li ul,
+form ol li ul li { margin:0; padding:0; }
+form ol li ul li img { vertical-align:-2px; cursor:pointer; }
+form ol li ul li img.sort_handle { cursor:n-resize; }
+
+/* specific forms */
+#signup_form,
+#login_form,
+#recover_form,
+#password_form,
+#settings_form { width:400px; }
+#add_concert_form { width:590px; }
+#are_you_going_form { margin:0; width:315px; }
+#are_you_going_form h2 { margin-bottom:14px; }
+#are_you_going_form ol { margin-left:15px; clear:none; }
+#are_you_going_form input,
+#are_you_going_form label { cursor:pointer; }
+#artists_list input.cancelled_artist { text-decoration:line-through; color:#ccc; }
+
+/* footer */
+#footer { border-top:1px dotted #ddd; padding:20px 0 20px; overflow:hidden; }
+#footer ul.right_footer_links { float:right; }
+#footer ul.left_footer_links li { float:left; margin-right:20px; }
+#footer ul.right_footer_links li { float:left; margin-left:20px; }
+
+/* other stuff */
+.no_concerts_today { margin-bottom:50px; font-size:16px; }
+
+/* alerts */
+.error,
+.notice,
+.success { padding-top:14px; margin-bottom:1em; border:2px solid #ddd; }
+.error { background:#FBE3E4; color:#8a1f11; border-color:#FBC2C4; }
+.notice { background:#FFF6BF; color:#514721; border-color:#FFD324; }
+.success { background:#E6EFC2; color:#264409; border-color:#C6D880; }
+.error a { color:#8a1f11; }
+.notice a { color:#514721; }
+.success a { color:#264409; }
+.inline_success_message { background:#E6EFC2; color:#264409; border:2px solid #ddd; border-color:#C6D880; padding:2px 3px; margin-left:4px; }
+.inline_notice_message { background:#FFF6BF; color:#514721; border:2px solid #ddd; border-color:#FFD324; padding:2px 3px; margin-left:4px; }
+.success_message,
+.notice_message,
+.error_message { padding:10px 0; margin:20px 0; text-align:center; font-weight:bold; line-height:20px; }
+.success_message { background-color:#DFF2BF; color:#4F8A10; }
+.notice_message { background-color:#FEEFB3; color:#9F6000; }
+.error_message { background-color:#FBE3E4; color:#8a1f11; }
+
+/* marks */
+.cancelled_concert_mark { float:right; color:red; font-size:11px; margin-left:4px; font-weight:bold; }
+
+
+/* general rules */
+.right_aligned { text-align:right; }
+.inline-block { display:inline-block; }
+.clear { clear:both; }
+.editable_text { background-color:#fff9a6; }
+.handy { cursor:pointer; }
+
+/* anti spam */
+li#do_you_love_yeaaaah_field { display:none; }

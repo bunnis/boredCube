@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<!-- saved from url=(0055)http://pt.yeaaaah.com/concert/28279/moonspell-em-almada -->
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <meta charset="utf-8" /> 
+  <meta http-equiv="content-language" content="pt-pt" /> 
+  <title>Moonspell em Almada (Incr&iacute;vel Almadense) – Yeaaaah!</title> 
+  <meta name="description" content="Acompanha aqui os detalhes do concerto de Moonspell em Almada." /> 
+  <meta name="robots" content="noarchive" /> 
+  <meta name="google-site-verification" content="E05DHxHq1Fz-rwZnKumz9fHC4y5co31E8c-IPfOpwkI" /> 
+  <meta name="verification" content="f47986bbfbefb542b268796c399cdbca" /> 
+  <meta property="fb:admins" content="501041286" /> 
+  <meta property="og:description" content="Acompanha aqui os detalhes do concerto de Moonspell em Almada." /> 
+  <meta property="og:image" content="http://www.yeaaaah.com/img/facebook_image.png" /> 
+  <meta property="og:site_name" content="Yeaaaah!" /> 
+  <meta property="og:type" content="website" /> 
+  <meta property="og:url" content="http://pt.yeaaaah.com/concert/28279/moonspell-em-almada" /> 
+  <meta property="og:title" content="Moonspell em Almada (Incr&iacute;vel Almadense)" /> 
+  <link type="image/png" rel="icon" href="http://pt.yeaaaah.com/img/icons/favicon.png" /> 
+  <link type="text/css" rel="stylesheet" href="./test_files/style.css" /> 
+  <script type="text/javascript" async="" src="./test_files/ga.js"></script>
+  <script id="facebook-jssdk" src="./test_files/all.js"></script>
+  <script>
+// Track links with Google Analytics.
+function trackLink(anchorElement, eventCategory, eventAction)
+{
+    try
+    { 
+        _gaq.push(['_trackEvent', eventCategory , eventAction]); 
+    } catch(err) {}
+     
+    if (anchorElement.target == '_blank')
+    {
+        window.open(anchorElement.href);
+    }
+    else
+    {
+        // If the link is opening on the same window, we need to give it
+        // some delay to make sure the tracking was done.
+        setTimeout(function()
+        {
+            document.location.href = anchorElement.href;
+        }, 100);
+    }        
+}
+</script> 
+  <style type="text/css"></style>
+  <style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f2f2f2;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3b5998;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29447e;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f2f2f2;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fbpluginrecommendationsbarleft,.fbpluginrecommendationsbarright{position:fixed !important;bottom:0;z-index:999}.fbpluginrecommendationsbarleft{left:10px}.fbpluginrecommendationsbarright{right:10px}</style>
+ </head> 
+ <body> 
+  <div id="fb-root" class=" fb_reset">
+   <div style="position: absolute; top: -10000px; height: 0px; width: 0px;">
+    <div>
+     <iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="./test_files/ZIZ-G4f9LgK.htm" style="border: none;"></iframe>
+     <iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="./test_files/ZIZ-G4f9LgK(1).htm" style="border: none;"></iframe>
+    </div>
+   </div>
+   <div style="position: absolute; top: -10000px; height: 0px; width: 0px;">
+    <div></div>
+   </div>
+  </div> 
+  <script>
+	(function(d, s, id)
+	{
+  		var js, fjs = d.getElementsByTagName(s)[0];
+  		
+  		if (d.getElementById(id)) { return; }
+
+  		js = d.createElement(s);
+  		js.id = id;
+  		js.src = "//connect.facebook.net/pt_PT/all.js#xfbml=1&status=0";
+  		
+  		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script> 
+  <div id="content_wrapper"> 
+   <div id="header"> 
+    <div id="site_id"> 
+     <a href="http://pt.yeaaaah.com/"><img src="./test_files/yeaaaah.png" alt="Yeaaaah!" /></a> 
+    </div> 
+    <div class="fb-like fb_iframe_widget" data-href="http://www.facebook.com/pages/Yeaaaah/331240202967" data-width="200" data-layout="button_count" data-show-faces="false" data-send="false" style="float:left;border:none;overflow:hidden;width:200px;height:21px;padding-top:14px;" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FYeaaaah%2F331240202967&amp;layout=button_count&amp;locale=pt_PT&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=200">
+     <span style="vertical-align: bottom; width: 102px; height: 20px;"><iframe name="f990802e8" width="200px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="./test_files/like.htm" style="border: none; visibility: visible; width: 102px; height: 20px;" class=""></iframe></span>
+    </div> 
+    <ul class="nav"> 
+     <li> <a href="http://www.yeaaaah.com/concert/28279/moonspell-em-almada" onclick="trackLink(this, 'Navigation Links', 'Change language'); return false;"> <img src="./test_files/en.png" alt="" /> English </a> </li> 
+     <li> <a href="http://pt.yeaaaah.com/signup" onclick="trackLink(this, 'Navigation Links', 'Signup'); return false;">Regista-te!</a> </li> 
+     <li> <a href="http://pt.yeaaaah.com/login" onclick="trackLink(this, 'Navigation Links', 'Login'); return false;">Entra</a> </li> 
+    </ul> 
+   </div> 
+   <div id="content"> 
+    <div id="page_menu"> 
+     <ul class="nav"> 
+      <li><a href="http://pt.yeaaaah.com/pt/updates">Actualiza&ccedil;&otilde;es</a></li> 
+      <li><a href="http://pt.yeaaaah.com/pt/agenda-de-concertos">Agenda de Concertos</a></li> 
+     </ul> 
+     <h1><a href="http://pt.yeaaaah.com/pt">Concertos em Portugal</a></h1> 
+    </div> 
+    <div class="concert_details_expanded" itemscope="" itemtype="http://data-vocabulary.org/Event"> 
+     <div class="artists"> 
+      <div class="main_artists" itemprop="summary">
+       <a href="http://pt.yeaaaah.com/artist/1685/moonspell">Moonspell</a>
+      </div> 
+     </div> 
+     <dl style="margin-bottom:30px;"> 
+      <dt>
+       <img src="./test_files/calendar.png" />
+      </dt> 
+      <dd class="bigger_text"> 
+       <time itemprop="startDate" datetime="2014-10-31T21:00">31 de Outubro de 2014 – 21:00 (Sexta)</time> 
+      </dd> 
+      <dt>
+       <img src="./test_files/house.png" />
+      </dt> 
+      <dd class="bigger_text">
+       <a href="http://pt.yeaaaah.com/venue/31/incrivel-almadense-em-almada"><span itemprop="location">Incr&iacute;vel Almadense, Almada</span></a>
+      </dd> 
+      <dt>
+       <img src="./test_files/facebook.png" />
+      </dt> 
+      <dd class="bigger_text"> 
+       <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fpt.yeaaaah.com%2Fconcert%2F28279%2Fmoonspell-em-almada" target="_blank" onclick="trackLink(this, 'Outbound Links', 'facebook.com (via share link)'); return false;"> Partilha no Facebook </a> 
+       <!--div class="fb-like" style="height:44px;"
+                         data-href="http://pt.yeaaaah.com/concert/28279/moonspell-em-almada"
+                         data-send="true" data-layout="button_count" data-width="450" data-show-faces="false"></div--> 
+      </dd> 
+     </dl> 
+     <form method="post" id="are_you_going_form"> 
+      <h3>Vais ao concerto?</h3> 
+      <ol> 
+       <li> 
+        <div class="inline-block"> 
+         <input type="radio" name="is_going" value="1" id="is_going_yes" /> 
+         <label for="is_going_yes">Claro!</label> 
+         <span id="is_going_1_message" class="inline_notice_message" style="display:none;">Adicionado &agrave; <a href="http://pt.yeaaaah.com/dashboard">tua agenda</a>!</span>
+         <br /> 
+         <input type="radio" name="is_going" value="0" id="is_going_maybe" /> 
+         <label for="is_going_maybe">Talvez...</label> 
+         <span id="is_going_0_message" class="inline_notice_message" style="display:none;">Adicionado &agrave; <a href="http://pt.yeaaaah.com/dashboard">tua agenda</a>!</span>
+         <br /> 
+         <input type="radio" name="is_going" value="2" id="is_going_no" checked="checked" /> 
+         <label for="is_going_no">N&atilde;o.</label> 
+         <span id="is_going_2_message" class="inline_notice_message" style="display:none;">Removido da <a href="http://pt.yeaaaah.com/dashboard">tua agenda</a>!</span>
+         <br /> 
+        </div> </li> 
+      </ol> 
+      <input type="hidden" name="yh_csrf_token" value="6a27435d209d7c066ffb8dca6c101507" /> 
+     </form> 
+    </div> 
+    <div style="margin:40px 0; text-align:center;"> 
+     <script type="text/javascript">
+    <!--
+    google_ad_client = "pub-5935278254958063";
+    google_ad_slot = "1842722103";
+    google_ad_width = 728;
+    google_ad_height = 90;
+    //-->
+    </script> 
+     <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script> 
+    </div> 
+    <div id="city_listing"> 
+     <p> Pr&oacute;ximos concertos em: <a href="http://pt.yeaaaah.com/city/1/concertos-em-lisboa/+">Lisboa</a> <a href="http://pt.yeaaaah.com/city/2/concertos-no-porto/+">Porto</a> <a href="http://pt.yeaaaah.com/city/14/concertos-em-coimbra/+">Coimbra</a> <a href="http://pt.yeaaaah.com/city/29/concertos-em-aveiro/+">Aveiro</a> <a href="http://pt.yeaaaah.com/city/9/concertos-em-faro/+">Faro</a> </p> 
+     <p> <a href="http://pt.yeaaaah.com/city/58/concertos-em-beja/+">Beja</a> <a href="http://pt.yeaaaah.com/city/19/concertos-em-braga/+">Braga</a> <a href="http://pt.yeaaaah.com/city/39/concertos-em-braganca/+">Bragan&ccedil;a</a> <a href="http://pt.yeaaaah.com/city/106/concertos-em-castelo-branco/+">Castelo Branco</a> <a href="http://pt.yeaaaah.com/city/49/concertos-em-evora/+">&Eacute;vora</a> <a href="http://pt.yeaaaah.com/city/32/concertos-na-guarda/+">Guarda</a> <a href="http://pt.yeaaaah.com/city/25/concertos-em-leiria/+">Leiria</a> <a href="http://pt.yeaaaah.com/city/38/concertos-em-portalegre/+">Portalegre</a> <a href="http://pt.yeaaaah.com/city/40/concertos-em-santarem/+">Santar&eacute;m</a> <a href="http://pt.yeaaaah.com/city/89/concertos-em-setubal/+">Set&uacute;bal</a> <a href="http://pt.yeaaaah.com/city/36/concertos-em-viana-do-castelo/+">Viana do Castelo</a> <a href="http://pt.yeaaaah.com/city/20/concertos-em-vila-real/+">Vila Real</a> <a href="http://pt.yeaaaah.com/city/17/concertos-em-viseu/+">Viseu</a> <a href="http://pt.yeaaaah.com/city/217/concertos-no-funchal/+">Madeira</a> <a href="http://pt.yeaaaah.com/city/78/concertos-em-ponta-delgada/+">A&ccedil;ores</a> </p> 
+     <p> Festivais de Ver&atilde;o: <a href="http://pt.yeaaaah.com/concert/30827/festival-bons-sons">Festival Bons Sons</a> <a href="http://pt.yeaaaah.com/concert/27463/festival-paredes-de-coura">Festival Paredes de Coura</a> <a href="http://pt.yeaaaah.com/concert/30904/festa-do-avante">Festa do Avante!</a> </p> 
+    </div> 
+   </div> 
+   <!--
+<div id="footer">
+
+	<ul class="right_footer_links">
+			</ul>
+
+	<ul class="left_footer_links">
+		<li><a href="/support/about">Sobre o Yeaaah!</a></li>
+	</ul>
+
+</div>
+--> 
+  </div> 
+  <script src="./test_files/mootools-1.2.4-core-yc.js"></script> 
+  <script src="./test_files/mootools-1.2.4.4-more-yc.js"></script> 
+  <script>
+
+var is_going_saved_value = parseInt(2, 10);
+
+function update_user_concert()
+{
+    var is_going;
+
+    $each($$('input[name=is_going]'), function(item, index)
+    {
+        if (item.checked)
+        {
+            is_going = parseInt(item.get('value'), 10);
+        }
+    });
+
+    // Event tracking for Google Analytics.
+    try
+    {
+        switch (is_going)
+        {
+            case 0:
+                _gaq.push(['_trackEvent', 'User Concerts', 'Added', 'Maybe']);
+                break;
+
+            case 1:
+                _gaq.push(['_trackEvent', 'User Concerts', 'Added', 'Going']);
+                break;
+
+            case 2:
+                _gaq.push(['_trackEvent', 'User Concerts', 'Removed']);
+                break;
+        }
+    } catch(err) {}
+
+    new Request.HTML(
+    {
+        async: false,
+        url: '/concert/update_user_concert',
+        data:
+        {
+            'concert_id': 28279,
+            'is_going': is_going,
+            'yh_csrf_token': '6a27435d209d7c066ffb8dca6c101507'
+        },
+        onComplete: function()
+        {
+            
+            if (is_going != 2)
+            {
+                window.location = "/dashboard";
+            }
+
+                    }
+    }).send();
+}
+
+
+window.addEvent('domready', function()
+{
+    $each($$('#are_you_going_form input[name=is_going]'), function(item, index)
+    {
+        item.addEvent('click', function()
+        {
+            update_user_concert();
+        });
+    });
+}
+);
+
+</script> 
+  <script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-13179118-1']);
+		_gaq.push(['_setDomainName', 'yeaaaah.com']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga   = document.createElement('script');
+			ga.type  = 'text/javascript';
+			ga.async = true;
+			ga.src   = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s    = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(ga, s);
+		})();
+		</script> 
+ </body>
+</html>
