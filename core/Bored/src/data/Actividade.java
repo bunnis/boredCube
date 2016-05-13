@@ -25,6 +25,33 @@ public class Actividade {
 	public void setPaisActividade(Pais paisActividade) {
 		this.paisActividade = paisActividade;
 	}
+	@Override
+	public String toString() {
+		return "Actividade [idActividade=" + idActividade + ", nomeActividade=" + nomeActividade + ", moradaActividade="
+				+ moradaActividade + ", GPSACtividade=" + GPSACtividade + ", fotoActividade=" + fotoActividade
+				+ ", paisActividade=" + paisActividade + "]";
+	}
+	public int getIdActividade() {
+		return idActividade;
+	}
+	public void setIdActividade(int idActividade) {
+		this.idActividade = idActividade;
+	}
+	public String getNomeActividade() {
+		return nomeActividade;
+	}
+	public String getMoradaActividade() {
+		return moradaActividade;
+	}
+	public String getGPSACtividade() {
+		return GPSACtividade;
+	}
+	public String getFotoActividade() {
+		return fotoActividade;
+	}
+	public Pais getPaisActividade() {
+		return paisActividade;
+	}
 	
 	
 }

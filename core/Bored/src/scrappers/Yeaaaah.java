@@ -56,7 +56,7 @@ public class Yeaaaah {
 			//System.out.println(concerts);
 			//removeDuplicate(concerts);
 
-
+			System.out.println("Starting yeahh data ETL");
 			//grab each concert page and extract info
 			for(Element link: concerts){
 
@@ -65,7 +65,7 @@ public class Yeaaaah {
 				extractData(link.attr("abs:href"));
 
 			}
-
+			System.out.println("Finished yeahh data ETL");
 			//System.out.println(concerts);
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -79,6 +79,7 @@ public class Yeaaaah {
 	}
 
 	//extract concert data
+	int id_db = 0;
 	private void extractData(String link) throws IOException {
 		//Elements time = doc.getElementsByTag("time");
 		//if time.size = 0 means festival/various days
@@ -101,6 +102,7 @@ public class Yeaaaah {
 		Elements festival = doc.getElementsByClass("event_date_concerts_listing");
 		boolean isFestival = !festival.isEmpty(); //if festival.isEmpty = true is not festival
 
+		
 		if(!isFestival && !ids.contains(id)){//concerto musica
 			ids.add(id);
 
@@ -113,8 +115,11 @@ public class Yeaaaah {
 			Elements location = doc.getElementsByAttributeValue("itemprop", "location");
 
 			Evento e = new Evento("Concerto");
+
 			e.setMoradaActividade(location.text());
-			
+            e.setID(id_db);
+            id_db++;
+            
 			eventos.add(e);
 		}
 		else{//Festival

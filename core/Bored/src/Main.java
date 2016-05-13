@@ -14,11 +14,13 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		//DB db = new DB();
+		DB db = new DB();
 		
 //		FourSquare fq = new FourSquare();
 //		
-//		Yeaaaah yh = new Yeaaaah();
+		Yeaaaah yh = new Yeaaaah();
+		
+		db.populateWith(yh);
 //		LinkedList<Evento> eventos = yh.getEventList();
 		
 		//Eventful etf = new Eventful();
@@ -26,6 +28,7 @@ public class Main {
 		
 		//ConVida convida = new ConVida();
 		//Facebook fb = new Facebook();
-		AllEvents alleve = new AllEvents();
+		
+		//AllEvents alleve = new AllEvents();
 	}
 }
