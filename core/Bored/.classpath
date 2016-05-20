@@ -2,29 +2,16 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="../../libs/jsoup-1.7.3.jar" sourcepath="../../libs/jsoup-1.7.3-sources.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/../../libs/jsoup-1.7.3-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="../../libs/mysql-connector-java-5.1.32-bin.jar"/>
-	<classpathentry kind="lib" path="../../libs/json/org.json-20131017.jar" sourcepath="../../libs/json/org.json-20131017-sources.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/../../libs/json/org.json-20131017-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="../../libs/foursquare/foursquare-api-1.0.2.jar" sourcepath="../../libs/foursquare/foursquare-api-1.0.2-sources.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/../../libs/foursquare/foursquare-api-1.0.2-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="../../libs/cobra-0.98.4/lib/cobra-gp-0.98.5-jre7.jar" sourcepath="../../libs/cobra-0.98.4/src"/>
-	<classpathentry kind="lib" path="../../libs/cobra-0.98.4/lib/js.jar"/>
-	<classpathentry kind="lib" path="../../libs/json-simple-1.1.1.jar"/>
-	<classpathentry kind="lib" path="../../libs/factual-java-driver-master/factual-java-driver-1.8.7.jar" sourcepath="../../libs/factual-java-driver-master/factual-java-driver-1.8.7-sources.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/../../libs/factual-java-driver-master/factual-java-driver-1.8.7-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/foursquare/foursquare-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/factual-java-driver-master/factual-java-driver-1.8.7.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/cobra-0.98.4/lib/cobra.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/cobra-0.98.4/lib/js.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/json/org.json-20131017.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/apache-log4j-2.5-bin/log4j-core-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/slf4j-1.7.21/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/home/pegg/git/boredCube/libs/slf4j-1.7.21/slf4j-simple-1.7.21.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
