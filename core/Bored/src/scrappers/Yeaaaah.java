@@ -15,6 +15,7 @@ import org.jsoup.nodes.Entities.EscapeMode;
 import org.jsoup.select.Elements;
 
 import data.Evento;
+import data.Pais;
 
 
 public class Yeaaaah {
@@ -79,7 +80,6 @@ public class Yeaaaah {
 	}
 
 	//extract concert data
-	int id_db = 0;
 	private void extractData(String link) throws IOException {
 		//Elements time = doc.getElementsByTag("time");
 		//if time.size = 0 means festival/various days
@@ -117,8 +117,9 @@ public class Yeaaaah {
 			Evento e = new Evento("Concerto");
 
 			e.setMoradaActividade(location.text());
-            e.setID(id_db);
-            id_db++;
+            e.setID(id);
+            e.setPaisActividade(new Pais("Portugal"));
+            e.setNomeActividade(artists.text());
             
 			eventos.add(e);
 		}

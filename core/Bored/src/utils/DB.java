@@ -187,7 +187,7 @@ public class DB {
 		query = "INSERT INTO bored.actividade (actividadenome, actividademorada, actividadegps, actividadepais, actividadefoto, horario_idhorario, Pais_PaisNome) VALUES ( ?, ?, ?, ?, ?, ?, ?)";
 		PreparedStatement preparedStmt = conn.prepareStatement(query,Statement.RETURN_GENERATED_KEYS);
 
-		preparedStmt.setString (1, "some event name");
+		preparedStmt.setString (1, e.getNomeActividade());
 		preparedStmt.setString (2, e.getMoradaActividade());
 		preparedStmt.setString (3, "NOPE");
 		preparedStmt.setString (4, name_country);
